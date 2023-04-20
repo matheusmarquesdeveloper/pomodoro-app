@@ -1,4 +1,4 @@
-# POMODORO APP 
+# Pomodoro App
 Esse é um projeto feito em react de um app de pomodoro.
 
 # Getting Started with Create React App
