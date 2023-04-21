@@ -1,6 +1,9 @@
 # Pomodoro App
 Esse é um projeto feito em react de um app de pomodoro.
 
+
+![pomodoro](https://user-images.githubusercontent.com/60636732/233510954-a93087d2-1716-4d76-b1c6-e47759d95f2e.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
