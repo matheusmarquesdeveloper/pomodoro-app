@@ -1,8 +1,8 @@
 # Pomodoro App
 Esse é um projeto feito em react de um app de pomodoro.
 
+https://user-images.githubusercontent.com/60636732/233511133-779458a5-f7a6-4141-84fd-90870a3843f6.mp4
 
-![pomodoro](https://user-images.githubusercontent.com/60636732/233510954-a93087d2-1716-4d76-b1c6-e47759d95f2e.gif)
 
 # Getting Started with Create React App
 
