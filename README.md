@@ -1,5 +1,5 @@
-# Pomodoro App
-Esse é um projeto feito em react de um app de pomodoro.
+# Pomodoro
+Esse é um projeto feito em react de pomodoro.
 
 https://user-images.githubusercontent.com/60636732/233511133-779458a5-f7a6-4141-84fd-90870a3843f6.mp4
 
